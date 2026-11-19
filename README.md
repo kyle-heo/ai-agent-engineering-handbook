@@ -2,7 +2,7 @@
 
 한국어 AI 에이전트 기술 서적과 주간 생태계 분석 보고서를 공개합니다.
 
-- [GitBook 공개 사이트](https://free-bbok.gitbook.io/free-bbok-docs)
+- [GitBook 공개 사이트](https://free-bbok.gitbook.io/ai-agent-handbook)
 - [기술 서적 목차](SUMMARY.md)
 - [Vol. 00 — AI 에이전트 생태계 심층 분석](weekly/2026/2026-W47.md)
 - 원본 관리: GitHub Markdown
