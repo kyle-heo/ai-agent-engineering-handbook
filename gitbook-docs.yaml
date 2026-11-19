@@ -6,6 +6,7 @@ site:
       key: handbook
       title: AI Agent Engineering Handbook
       path: handbook
+      description: ""
       default: true
       children:
         - type: space
