@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: AI Agent Engineering Handbook
+  structure:
+    - type: section
+      key: handbook
+      title: AI Agent Engineering Handbook
+      path: handbook
+      default: true
+      children:
+        - type: space
+          key: handbook-ko
+          title: 한국어 기술 서적
+          path: ko
+          default: true
+          content:
+            directory: ./
+            language: ko
