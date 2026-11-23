@@ -12,3 +12,4 @@
 * [음성·멀티모달](book/voice-multimodal/README.md)
 * [실무 구축 사례](book/case-studies/README.md)
 * [주간 보고서 2026-W47](weekly/2026/2026-W47.md)
+* [주간 보고서 2026-W48](weekly/2026/2026-W48.md)
